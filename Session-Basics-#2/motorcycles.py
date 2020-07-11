@@ -1,4 +1,4 @@
-# ------ Basics #2: Lists -------
+# ------ Basics #2: Lists Part-1 -------
 
 # Lists allow you to store sets of information in one place, 
 # whether you have just a few items or millions of items.
