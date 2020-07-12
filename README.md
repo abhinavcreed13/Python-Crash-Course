@@ -6,41 +6,41 @@ Reference Repository for python starter crash course sessions
 
 ### PART 1 - BASICS with Exercises
 
-#### 1. Variables + Data Types 
+#### Basics-#1. Variables + Data Types 
 	
 	- Variables, Strings, Numbers, Comments
 
-#### 2. Lists Part-1
+#### Basics-#2. Lists Part-1
 	
 	- CRUD operation, Organising a list
 
-#### 3. Lists Part-2
+#### Basics-#3. Lists Part-2
 	- Looping, List Errors, Numerical lists, List Parts, Tuples
 
-#### 4. If statements
+#### Basics-#4. If statements
 	- Conditional tests
 	- Using if with lists
 
-#### 5. Dictionaries
+#### Basics-#5. Dictionaries
 	- Working, Looping, Nesting
 
-#### 6. User Input
+#### Basics-#6. User Input
 	- While loops with list + dicts
 
-#### 7. Functions
+#### Basics-#7. Functions
 	- Defining, Passing Arguments, Return Values
 	- Passing list, arbitrary arguments
 	- Modules
 
-#### 8. Classes
+#### Basics-#8. Classes
 	- Creating, Working
 	- Inheritance, Importing, Standard library
 
-#### 9. Files + Exceptions
+#### Basics-#9. Files + Exceptions
 	- Reading, Writing
 	- Exceptions, storing data
 
-#### 10. Testing
+#### Basics-#10. Testing
 	- Functions, Classes
   
 ### PART 2 - PROJECTS
