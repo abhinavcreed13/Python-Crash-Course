@@ -2,6 +2,8 @@
 
 Reference Repository for python starter crash course sessions
 
+Official Youtube Playlist for entire course: [https://www.youtube.com/watch?v=zoFzw8M2DOQ&list=PLgOISYWDO2LNOlUiduQSgU_MrQ-NkJNDr](https://www.youtube.com/watch?v=zoFzw8M2DOQ&list=PLgOISYWDO2LNOlUiduQSgU_MrQ-NkJNDr)
+
 ## Python Course Plan
 
 ### PART 1 - BASICS with Exercises
