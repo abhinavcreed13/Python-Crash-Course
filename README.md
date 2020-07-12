@@ -1,6 +1,6 @@
 # Python Starter Crash Course
 
-Repository for python starter crash course sessions
+Reference Repository for python starter crash course sessions
 
 ## Python Course Plan
 
